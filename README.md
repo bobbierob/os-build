@@ -1,3 +1,3 @@
 # os-build
 
-Building a 64-bit os following youtube tutorial
+Building a 64-bit os from scratch following youtube tutorial
